@@ -5,7 +5,6 @@ An example project using the automation tool, [Cypress](https://www.cypress.io/)
 - page objects
 - various ways of running the tests (via npm scripts)
 
-Cypress is an _agressively_ opinionated framework... some of these opinions are at best, misguided :) YMMV. It also doesn't support all browsers, nor multiple windows (a deal breaker for many).
 
 ## Requires
 1. [node](https://nodejs.org/en/)
