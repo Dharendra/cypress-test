@@ -12,6 +12,7 @@ An example project using the automation tool, [Cypress](https://www.cypress.io/)
 ## Setup
 1. clone: `git@github.com:Dharendra/cypress-test.git`
 1. install: `npm i`
+1. install: `npm install cypress`
 
 ## Run Them Tests
 1. Run All : `npm test`
