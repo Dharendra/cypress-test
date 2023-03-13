@@ -14,8 +14,7 @@ An example project using the automation tool, [Cypress](https://www.cypress.io/)
 1. install: `npm i`
 
 ## Run Them Tests
-1. all'vum: `npm test`
+1. Run All : `npm test`
 1. head: `npm run cy run -- -q --headed`
-1. just homePage: `npm run cy:home`
-1. just searchPage: `npm run cy:search`
+1. just calculator : `npm run cy:calculator`
 1. headless: `npm run cy:headless`

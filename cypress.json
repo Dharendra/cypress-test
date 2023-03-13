@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://snapdocs.com",
+    "baseUrl": "https://www.zillow.com/mortgage-calculator/",
     "fixturesFolder": "fixtures",
     "integrationFolder": "specs",
     "pluginsFile": "plugins",

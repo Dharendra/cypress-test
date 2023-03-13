@@ -8,8 +8,7 @@
     "cy:open": "npm run cy open",
     "test": "npm run cy run -- -q --headed",
     "cy:headless": "npm run cy run -- -q",
-    "cy:home": "npm run cy run -- --spec specs/homePageSpec.js",
-    "cy:search": "npm run cy run -- --spec specs/searchSpec.js",
+    "cy:calculator": "npm run cy run -- --spec specs/calculatorSpec.js",
     "ci": "npm run cy run -- -q"
   },
   "keywords": [
@@ -22,8 +21,7 @@
   "author": "Dharendra",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^4.11.0",
+    "cypress": "^4.12.1",
     "cypress-xpath": "^1.6.0"
-  },
-  "dependencies": {}
+  }
 }
